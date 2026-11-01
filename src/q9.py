@@ -33,7 +33,7 @@ and which command moves a file from there into the next commit?
 
 ```
 Answer:
-    It indicates that tracked files have been modified in your working directory but are not yet added to the staging area, 
-    and you use git add <file> to move them into the next commit.
+    It indicates that tracked files have been modified in my working directory but are not yet added to the staging area, 
+    and I use git add <file> to move them into the next commit.
 ```
 """
